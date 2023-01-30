@@ -1,5 +1,5 @@
 let CONFIG = {
-  accuWeatherAPIKEY: "54YhDCrUiABBscPtmVbzfTNGUcppnYte",
+  accuWeatherAPIKEY: "YOUR_API_KEY",
   weatherForecastEndpoint:
     "http://dataservice.accuweather.com/forecasts/v1/daily/1day/",
   weatherCurrentEndpoint:
